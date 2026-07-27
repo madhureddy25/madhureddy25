@@ -23,10 +23,6 @@ I design and deploy intelligent mobility solutions, focusing on **adaptive coope
 - Bridging the reality gap by testing perception and control algorithms in CARLA, AWSIM, and Gazebo before hardware deployment.
 - **Tech**: CARLA, Gazebo, AWSIM, Digital Twin Simulation.
 
-### 💼 Automotive Engineering Internship Aggregator (Side Project)
-- Building a full-stack platform to aggregate daily automotive internships with stipend info, requirements, and industry reality checks.
-- **Tech**: [Add your web stack, e.g., Next.js, Python, Web Scraping]
-
 ---
 
 ## 🛠️ Technical Arsenal
