@@ -1,43 +1,55 @@
-## Hi there 👋 I'm Baki Madhusudhana Reddy
-I'm an Automotive Engineering enthusiast currently pursuing my Masters at Amrita Vishwa Vidyapeetham. My passion lies in developing advanced vehicle technologies and intelligent mobility solutions.
+# Hi, I'm Madhu Reddy Baki 👋
 
-I mostly work on ADAS systems, electric vehicles, and vehicle simulation. This is where I showcase my projects related to autonomous driving perception, EV fault diagnosis, and vehicle dynamics. Everything here is built from hands-on research and experimentation.
+### AI & Automotive Researcher | Robotics Engineer 
 
-﻿
-🚀 Current Focus
+I design and deploy intelligent mobility solutions, focusing on **adaptive cooperative platooning**, **sim-to-real robotics**, and **robust ADAS perception**. Currently building scaled connected autonomous vehicle testbeds using ROS2 and multi-agent frameworks.
 
-🌧️ Adverse Weather ADAS Perception: Enhancing vision-based ADAS in challenging weather conditions using CycleGAN for data augmentation.
+🔗 [LinkedIn](https://www.linkedin.com/in/madhusudhana-reddy-baki-b83a901ba/) | 📧 [bakimadhu348@gmail.com](mailto:bakimadhu348@gmail.com)
 
-⚡ EV Motor Fault Diagnosis: Implementing ML-based predictive maintenance for electric vehicle bearings through signal processing and machine learning.
+---
 
+## 🚀 Current Research & Projects
 
-﻿
- 🛠️ Tools & Tech
- 
- My technical toolkit includes a variety of programming languages, CAD, and simulation software:
+### 🤖 Adaptive Cooperative Platooning (M.Tech Research)
+- Developing a ROS2-based multi-robot platooning system using 3x Waveshare AMRs as a scaled CAV testbed.
+- Implementing LLM-based decision-making for adaptive platoon reconfiguration under V2V communication degradation.
+- **Tech**: ROS2, Python, C++, Multi-Agent Systems, LLMs.
 
- Programming: Python, Embedded C, Assembly Language
+### 🌧️ Adverse Weather ADAS Perception
+- Enhancing vision-based autonomous driving perception in rain/fog using CycleGAN for synthetic data augmentation.
+- **Tech**: PyTorch, OpenCV, CycleGAN, Computer Vision.
 
- Simulation: MATLAB/Simulink, ANSYS, CarMaker, GT-SUITE, Keil uVision4
+### 🏎️ Sim-to-Real Autonomous Deployment Pipeline
+- Bridging the reality gap by testing perception and control algorithms in CARLA, AWSIM, and Gazebo before hardware deployment.
+- **Tech**: CARLA, Gazebo, AWSIM, Digital Twin Simulation.
 
- CAD Tools: CATIA, SolidWorks, AutoCAD, Solid Edge
+### 💼 Automotive Engineering Internship Aggregator (Side Project)
+- Building a full-stack platform to aggregate daily automotive internships with stipend info, requirements, and industry reality checks.
+- **Tech**: [Add your web stack, e.g., Next.js, Python, Web Scraping]
 
- Domains: Vehicle Dynamics, ADAS, Software-Defined Vehicles (SDV), Electric & Hybrid Vehicles, Embedded Systems
+---
 
+## 🛠️ Technical Arsenal
 
-﻿🎯 A Bit About Me
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, C++, Embedded C, SQL |
+| **Robotics & Sim** | ROS2, Gazebo, CARLA, AWSIM, MATLAB/Simulink |
+| **AI / ML** | PyTorch, TensorFlow, Vision Transformers, LLMs, OpenCV |
+| **Automotive** | Vehicle Dynamics, ADAS, CACC, V2V Communication, SDV |
+| **Tools** | Git, Docker, Linux, CATIA, SolidWorks |
 
-🎓 Masters in Automotive Engineering (2025-2027)
+---
 
-🏍️ Passionate about autonomous vehicles and intelligent mobility solutions
+## 📊 GitHub Stats
 
-📊 Love working with data augmentation and computer vision for ADAS
+![Madhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=madhureddy25&show_icons=true&theme=radical)
 
-🎨 Enjoy technical drawing and staying fit at the gym
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhureddy25&layout=compact&theme=radical)
 
-🎵 Music enthusiast
+---
 
- 
+## 📫 Let's Connect
 
-  
-
+I'm actively seeking **Research Engineer roles, PhD opportunities, and collaborations** in Autonomous Vehicles and AI.
+If you're working on the future of mobility, let's talk!
